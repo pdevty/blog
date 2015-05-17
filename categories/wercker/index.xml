@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wercker on pdevty blog</title>
+    <link>http://pdevty.github.io/blog/categories/wercker/</link>
+    <description>Recent content in Wercker on pdevty blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>© 2015 pdevty</copyright>
+    <lastBuildDate>Sat, 16 May 2015 16:23:23 +0900</lastBuildDate>
+    <atom:link href="http://pdevty.github.io/blog/categories/wercker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Auto deploy to git commit at github pages in wercker by hugo</title>
+      <link>http://pdevty.github.io/blog/2015/05/16/wercker-automated-deployments-github-pages-hugo/</link>
+      <pubDate>Sat, 16 May 2015 16:23:23 +0900</pubDate>
+      
+      <guid>http://pdevty.github.io/blog/2015/05/16/wercker-automated-deployments-github-pages-hugo/</guid>
+      <description>&lt;p&gt;I was able to successfully in the official guide of hugo&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gohugo.io/tutorials/automated-deployments/&#34;&gt;Automated deployments with Wercker&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
