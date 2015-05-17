@@ -4,7 +4,7 @@ languageCode = "ja-JP"
 title = "pdevty blog"
 MetaDataFormat = "toml"
 paginate = 9
-disqusShortname = "pdevty" # optional
+disqusShortname = "pdevtyblog" # optional
 copyright = "© 2015 pdevty"
 
 [params]
