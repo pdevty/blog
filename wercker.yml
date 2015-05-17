@@ -6,3 +6,9 @@ build:
         theme: material-design
         config: config.toml
         flags: --disableSitemap=true
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: pdevty.github.io
+        basedir: public
