@@ -1,0 +1,20 @@
+theme="material-design"
+baseurl = "http://pdevty.github.io/blog"
+languageCode = "ja-JP"
+title = "pdevty blog"
+MetaDataFormat = "toml"
+paginate = 9
+disqusShortname = "pdevty" # optional
+copyright = "© 2015 pdevty"
+
+[params]
+#  description = "Your Site Description"
+#  twitter = "Your Twitter Name" # optional
+  github = "pdevty" # optional
+#  facebook = "Your facebook Name" # optional
+  headerCover = "images/header.jpg" # optional
+  footerCover = "images/footer.jpg" # optional
+  googleAnalyticsUserID = "UA-63029547-1" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/" # optional
